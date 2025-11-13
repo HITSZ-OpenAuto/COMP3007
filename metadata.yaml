@@ -1,0 +1,202 @@
+ID: "COMP3007"
+SimilarID: []
+Name: "模式识别"
+CourseProperty:
+  - Year: "2019_2020"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+      - Name: "电信"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
+
+  - Year: "2020_2021"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+      - Name: "通信"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
+
+  - Year: "2021_2022"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
+
+  - Year: "2022_2023"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
+
+  - Year: "2023_2024"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+      - Name: "智能强基班"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "选修"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
+
+  - Year: "2024_2025"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+      - Name: "计算机（第二学士学位）"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
+
+  - Year: "2025_2026"
+    Major:
+      - Name: "计算机"
+        Degree: "本"
+      - Name: "计算机（第二学士学位）"
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "COMP3007"
+    CourseName: "模式识别"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "期末考试"
+        Percentage: "90"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "32"
