@@ -1,4 +1,0 @@
-category: 限选
-module: 人工智能领域
-semester: 第三学年秋季
-name: 模式识别
