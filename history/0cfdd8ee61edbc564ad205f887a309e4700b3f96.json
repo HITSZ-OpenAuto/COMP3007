@@ -1,0 +1,127 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814814,
+    "hash": "f02b7bcadd8490c41512fc256c211288c68cbb8e"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754203869,
+    "hash": "520543552a4929c01e279037f42653ae5a770cc3"
+  },
+  "README.md": {
+    "size": 2449,
+    "time": 1791961544,
+    "hash": "0cfdd8ee61edbc564ad205f887a309e4700b3f96"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754203869,
+    "hash": "520543552a4929c01e279037f42653ae5a770cc3"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754203869,
+    "hash": "520543552a4929c01e279037f42653ae5a770cc3"
+  },
+  "exams/2019 无答案 有较多原题.pdf": {
+    "size": 348971,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "exams/模式识别-2022级期末复习指南.md": {
+    "size": 17227,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754203869,
+    "hash": "520543552a4929c01e279037f42653ae5a770cc3"
+  },
+  "labs/2019实验_KNN-MNIST.md": {
+    "size": 176,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754203869,
+    "hash": "520543552a4929c01e279037f42653ae5a770cc3"
+  },
+  "notes/2021_xyfJASON/README.md": {
+    "size": 746,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "notes/2021_xyfJASON/模式识别知识点总结.pdf": {
+    "size": 2665233,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "readme.toml": {
+    "size": 2395,
+    "time": 1773428142,
+    "hash": "fd51622c6ec93a8a0bf44f32850d8981eb3432d5"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754203869,
+    "hash": "520543552a4929c01e279037f42653ae5a770cc3"
+  },
+  "slides/2019_徐勇/模式识别 0 绪论一.pdf": {
+    "size": 11695247,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 0 绪论二.pdf": {
+    "size": 1126294,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 1 第一个分类器.pdf": {
+    "size": 662705,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 2 贝叶斯决策与分类.pdf": {
+    "size": 743787,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 3 贝叶斯错误分析与多类.pdf": {
+    "size": 403089,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 4 贝叶斯最小风险.pdf": {
+    "size": 1176965,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 5 密度估计.pdf": {
+    "size": 1017454,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 6 非参数密度估计.pdf": {
+    "size": 524922,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 7 PCA.pdf": {
+    "size": 2437511,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 8 线性判别分析.pdf": {
+    "size": 1412002,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  },
+  "slides/2019_徐勇/模式识别 9 LDA扩展.pdf": {
+    "size": 806792,
+    "time": 1755966414,
+    "hash": "685d207d0198145d4bd707642da952b1ce6eda08"
+  }
+}
