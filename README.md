@@ -1,10 +1,5 @@
 # COMP3007 - 模式识别
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![期末考试90%](https://img.shields.io/badge/期末考试-90%25-wheat)
 
 模式识别课程资料整理。本课程主要涉及模式识别的基本概念、原理及算法。
 课程前半段难度不高，后面两三章比较难。
